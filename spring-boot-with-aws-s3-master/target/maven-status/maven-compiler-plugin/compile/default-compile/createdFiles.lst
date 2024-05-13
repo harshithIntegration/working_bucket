@@ -1,0 +1,7 @@
+spring\boot\aws\controller\FileUploadController$1.class
+spring\boot\aws\AwsConfiguration.class
+spring\boot\aws\SpringBootWithAwsS3Application.class
+spring\boot\aws\service\FileUploadServiceImpl.class
+spring\boot\aws\controller\FileUploadController.class
+spring\boot\aws\service\FileUploadService.class
+spring\boot\aws\payload\FileUpload.class
